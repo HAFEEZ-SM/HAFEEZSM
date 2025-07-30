@@ -1,41 +1,33 @@
-<h1 align="center">Hi 👋, Im HAFEEZ SYED MANSOOR</h1>
-<h3 align="center">Engineering Master's Student | Robotics, Automation & Industry 4.0 Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Hafeez Syed Mansoor</h1>
+<h3 align="center">"I'm a passionate mechanical designer and 3D printing enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/hafeezsyedmansoor&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/hafeezsyedmansoor" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafeez-sm&label=Profile%20views&color=0e75b6&style=flat" alt="hafeez-sm" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafeez-sm" alt="hafeez-sm" /></a> </p>
 
-- 🔭 I’m currently working as **Shift Operations Support at Flink SE**, optimizing warehouse management systems and QA dashboards.
-- 🌱 I’m currently pursuing a **Master’s in Industry 4.0 – Automation, Robotics & 3D Manufacturing** at SRH Berlin.
-- 👯 I’m looking to collaborate on **smart manufacturing, robotic automation, and additive manufacturing projects**.
-- 💬 Ask me about **CNC machining, SolidWorks, Fusion 360, IGUS components, and production optimization**.
-- 📫 Reach me at **777hafeez@gmail.com**
-- ⚡ Fun fact: I contributed to a 15% efficiency improvement in an Atmospheric Water Generator design 🌊
+- 🔭 I’m currently working on **AWG: Atmospheric Water Generator!**
 
----
+- 🌱 I’m currently learning **Azure, Pandas, Google Colab**
 
-### 🛠️ Skills & Tools
+- 👯 I’m looking to collaborate on **Modular 3D Printed Robotics Kit,DIY CNC Machine**
 
-- **Tools & Software**: Fusion 360, HEEDS, SolidWorks (CSWA), CNC (Lathe & Milling), WMS
-- **Languages**: English, German, Hindi, Kannada, Urdu
-- **Expertise**: Drawing Interpretation, Production QA, Mechanical Design, Technical Coordination, Process Optimization
+- 🤝 I’m looking for help with **IoT Integration for AWG**
 
----
+- 💬 Ask me about **AutoCAD, Fusion 360, AI, Netfabb, NX, Inventory**
 
-### 📈 GitHub Stats
+- 📫 How to reach me **777hafeez@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
-</p>
+- ⚡ Fun fact **I am a Gamer**
 
----
-
-### 📫 Let's Connect
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:777hafeez@gmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/mail.png" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/hafeez-syed-mansoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hafeez-syed-mansoor" height="30" width="40" /></a>
+<a href="https://instagram.com/hafeez__sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafeez__sm" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafeez-sm&show_icons=true&locale=en&layout=compact" alt="hafeez-sm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafeez-sm&show_icons=true&locale=en" alt="hafeez-sm" /></p>
