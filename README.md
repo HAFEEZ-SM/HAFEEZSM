@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Master's Student | Robotics, Automation & Industry 4.0 Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/hafeezsyedmansoor&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/hafeezsyedmansoor" />
 </p>
 
 ---
