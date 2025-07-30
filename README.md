@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HAFEEZ SYED MANSOOR</h1>
+<h1 align="center">Hi 👋, Im HAFEEZ SYED MANSOOR</h1>
 <h3 align="center">Engineering Master's Student | Robotics, Automation & Industry 4.0 Enthusiast</h3>
 
 <p align="center">
